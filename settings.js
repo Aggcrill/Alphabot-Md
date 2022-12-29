@@ -28,7 +28,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Sirloin Bot" //namabot kalian
-global.ownername= "Administrator" //nama kalian
+global.ownername= "Sirloin Bot" //nama kalian
 global.myweb ="Tidak tersedia" //bebas asal jan hapus
 global.youtube = "Tidak tersedia" //bebas asal jan hapus
 global.myweb2 = "Tidak tersedia" //bebas
